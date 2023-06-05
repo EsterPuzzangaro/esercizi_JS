@@ -1,22 +1,17 @@
-function calcolaFattoriale ($numero) {
- return $numero *5 *4 *3 *2 *1
+$n=(value)
+
+if ($n > 0) {
+ //scrivo la moltiplicazione
 }
 
-$numero = 6;
-$fattoriale = calcolaFattoriale ($numero)
-echo "Il fattoriale di $numero è $fattoriale.";
+else {
+    if ($n = 0) {
+    console.log("il risultato è 1")
+    }
 
+    else{
+        //scrivo la moltiplicazione
+    }
 
-
-
-
-function calcolaFattoriale ($numero) {
-    return $numero--;
-   }
-   
-   $numero = 6;
-   $fattoriale = calcolaFattoriale ($numero)
-   echo "Il fattoriale di $numero è $fattoriale.";
-
-
-   
+}
+    
