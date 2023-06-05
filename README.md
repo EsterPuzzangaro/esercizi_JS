@@ -1,14 +1,16 @@
 # esercizi_JS
 
-Esercizio 1 (Livello semplice) - Calcolo del fattoriale:
-Traccia:
-Crea una funzione chiamata calcolaFattoriale che prenda un numero intero positivo come argomento e restituisca il fattoriale di quel numero. 
-Il fattoriale di un numero intero positivo n si calcola moltiplicando tutti i numeri da 1 a n.
+Esercizio 2 (Livello semplice) - Verifica della parola palindroma:
 
-Ad esempio, il fattoriale di 5 (indicato come 5!) è uguale a 5 \ *4 * 3 \ *2 * 1, ovvero 120. Assicurati di gestire correttamente i casi in cui l'input sia 0 o negativo.
+Traccia:
+Crea una funzione chiamata isPalindroma che prenda una stringa come argomento e restituisca true se la stringa è palindroma e false se non lo è. Una stringa palindroma è una stringa che può essere letta nello stesso modo sia da sinistra che da destra. Ad esempio, "anna" è una parola palindroma. Ignora la punteggiatura, gli spazi e fai una comparazione case-insensitive.
 
 GitHub:
-Crea un nuovo branch chiamato fattoriale.
-Nella cartella principale del repository, crea un file chiamato fattoriale.js e implementa la soluzione dell'esercizio all'interno di questo file.
-Fai un commit delle modifiche sul branch fattoriale.
-Pusha il branch fattoriale sul repository remoto.
+
+Crea un nuovo branch chiamato palindromo.
+
+Nella cartella principale del repository, crea un file chiamato palindromo.js e implementa la soluzione dell'esercizio all'interno di questo file.
+
+Fai un commit delle modifiche sul branch palindromo.
+
+Pusha il branch palindromo sul repository remoto.
