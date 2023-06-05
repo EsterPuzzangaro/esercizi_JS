@@ -1,2 +1,4 @@
 
-function calcolaFattoriale ();
+function calcolaFattoriale (); {
+
+}
